@@ -1,5 +1,3 @@
-C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\obj\Debug\CalculatorOperation.Tests.csprojResolveAssemblyReference.cache
-C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\obj\Debug\CalculatorOperation.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -12,5 +10,7 @@ C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\b
 C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\bin\Debug\Calculator.exe.config
 C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\obj\Debug\CalculatorOperation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\obj\Debug\CalculatorOperation.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\obj\Debug\CalculatorOperation.Tests.dll
 C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\CalculatorOperation.Tests\obj\Debug\CalculatorOperation.Tests.pdb
