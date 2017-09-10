@@ -4,3 +4,11 @@ C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\Calculator\bin\Debug\Calcul
 C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\Calculator\obj\Debug\Calculator.exe
 C:\Users\Kaushal Mehra\source\repos\UnitTestingDemos\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Kaushal Mehra\Documents\GitHub\Unit-Testing\UnitTestingDemos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Kaushal Mehra\Documents\GitHub\Unit-Testing\UnitTestingDemos\Calculator\bin\Debug\Calculator.exe
+C:\Users\Kaushal Mehra\Documents\GitHub\Unit-Testing\UnitTestingDemos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Kaushal Mehra\Documents\GitHub\Unit-Testing\UnitTestingDemos\Calculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kaushal Mehra\Documents\GitHub\Unit-Testing\UnitTestingDemos\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Kaushal Mehra\Documents\GitHub\Unit-Testing\UnitTestingDemos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kaushal Mehra\Documents\GitHub\Unit-Testing\UnitTestingDemos\Calculator\obj\Debug\Calculator.exe
+C:\Users\Kaushal Mehra\Documents\GitHub\Unit-Testing\UnitTestingDemos\Calculator\obj\Debug\Calculator.pdb
